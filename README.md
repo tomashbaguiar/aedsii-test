@@ -1,3 +1,3 @@
-# graph-list_test
+# aedsii-test
 Irrelevant implementation
-Implementation test of a graph using object oriented programming
+Implementation test of aeds ii task.
